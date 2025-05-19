@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "kernel_build",
+      "repo": "https://github.com/Rohail33/Realking_kernel_sm8350",
+      "branch": "main",
+      "device": "haydn_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
