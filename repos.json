@@ -3,7 +3,7 @@
       "name": "kernel_build",
       "repo": "https://github.com/Rohail33/Realking_kernel_sm8350",
       "branch": "main",
-      "device": "haydn_defconfig"
+      "device": "haydn"
     },
     "withKernelSU": false,
     "toolchains": [
